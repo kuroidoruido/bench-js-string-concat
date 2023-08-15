@@ -1,0 +1,30 @@
+[
+  {
+    "type": "node",
+    "version": "20.5.0",
+    "duration": 94.6,
+    "timeResult": "node node.js  94,60s user 0,11s system 99% cpu 1:35,06 total"
+  },
+  {
+    "type": "deno",
+    "version": "1.35.2",
+    "duration": 93.98,
+    "timeResult": "deno run deno.js  93,98s user 0,04s system 96% cpu 1:37,58 total"
+  },
+  {
+    "type": "bun",
+    "version": "0.7.1",
+    "duration": 145.59,
+    "timeResult": "bun bun.js  145,59s user 2,48s system 101% cpu 2:26,17 total"
+  },
+  {
+    "type": "firefox",
+    "version": "113.0.1",
+    "duration": 177.502
+  },
+  {
+    "type": "chromium",
+    "version": "113.0.5672.126",
+    "duration": 93.23
+  }
+]

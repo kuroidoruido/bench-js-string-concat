@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            textarea {
+                width: 600px;
+                height: 99vh;
+            }
+        </style>
+    </head>
+    <body>
+        <script type="module">
+            const start = performance.now();
+            import { runBench } from './bench.js';
+            
+            const res = runBench();
+            const resJson = JSON.stringify(res, undefined, 2);
+            const end = performance.now();
+            
+            const textarea = document.createElement('textarea');
+            textarea.value = resJson;
+            document.body.appendChild(textarea);
+
+            const input = document.createElement('input');
+            input.value = (end - start) / 1000;
+            document.body.appendChild(input);
+
+        </script>
+    </body>
+</html>

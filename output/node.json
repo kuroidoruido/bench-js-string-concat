@@ -1,0 +1,338 @@
+[
+  {
+    "benchName": "literalStringConcat",
+    "iterations": 10000000,
+    "duration": 22.27673200517893,
+    "benchLenght": "0"
+  },
+  {
+    "benchName": "literalStringConcat",
+    "iterations": 10000000,
+    "duration": 83.43784999847412,
+    "benchLenght": "1"
+  },
+  {
+    "benchName": "literalStringConcat",
+    "iterations": 10000000,
+    "duration": 76.13999500125647,
+    "benchLenght": "2"
+  },
+  {
+    "benchName": "literalStringConcat",
+    "iterations": 10000000,
+    "duration": 76.94702100008726,
+    "benchLenght": "3"
+  },
+  {
+    "benchName": "literalStringConcat",
+    "iterations": 10000000,
+    "duration": 74.73799800127745,
+    "benchLenght": "4"
+  },
+  {
+    "benchName": "literalStringConcat",
+    "iterations": 10000000,
+    "duration": 74.62202599644661,
+    "benchLenght": "5"
+  },
+  {
+    "benchName": "literalStringConcat",
+    "iterations": 10000000,
+    "duration": 78.40367300063372,
+    "benchLenght": "10"
+  },
+  {
+    "benchName": "literalStringConcat",
+    "iterations": 10000000,
+    "duration": 76.04946500062943,
+    "benchLenght": "20"
+  },
+  {
+    "benchName": "templateStringConcat",
+    "iterations": 10000000,
+    "duration": 77.53012600541115,
+    "benchLenght": "0"
+  },
+  {
+    "benchName": "templateStringConcat",
+    "iterations": 10000000,
+    "duration": 92.52161100506783,
+    "benchLenght": "1"
+  },
+  {
+    "benchName": "templateStringConcat",
+    "iterations": 10000000,
+    "duration": 75.48876199871302,
+    "benchLenght": "2"
+  },
+  {
+    "benchName": "templateStringConcat",
+    "iterations": 10000000,
+    "duration": 74.44706200063229,
+    "benchLenght": "3"
+  },
+  {
+    "benchName": "templateStringConcat",
+    "iterations": 10000000,
+    "duration": 76.81721299886703,
+    "benchLenght": "4"
+  },
+  {
+    "benchName": "templateStringConcat",
+    "iterations": 10000000,
+    "duration": 74.40916500240564,
+    "benchLenght": "5"
+  },
+  {
+    "benchName": "templateStringConcat",
+    "iterations": 10000000,
+    "duration": 75.97695599496365,
+    "benchLenght": "10"
+  },
+  {
+    "benchName": "templateStringConcat",
+    "iterations": 10000000,
+    "duration": 84.45101000368595,
+    "benchLenght": "20"
+  },
+  {
+    "benchName": "concatMethod",
+    "iterations": 10000000,
+    "duration": 76.38008200377226,
+    "benchLenght": "0"
+  },
+  {
+    "benchName": "concatMethod",
+    "iterations": 10000000,
+    "duration": 205.9262899979949,
+    "benchLenght": "1"
+  },
+  {
+    "benchName": "concatMethod",
+    "iterations": 10000000,
+    "duration": 534.6172339990735,
+    "benchLenght": "2"
+  },
+  {
+    "benchName": "concatMethod",
+    "iterations": 10000000,
+    "duration": 741.109467998147,
+    "benchLenght": "3"
+  },
+  {
+    "benchName": "concatMethod",
+    "iterations": 10000000,
+    "duration": 949.4734840020537,
+    "benchLenght": "4"
+  },
+  {
+    "benchName": "concatMethod",
+    "iterations": 10000000,
+    "duration": 1044.1843609958887,
+    "benchLenght": "5"
+  },
+  {
+    "benchName": "concatMethod",
+    "iterations": 10000000,
+    "duration": 1958.678702995181,
+    "benchLenght": "10"
+  },
+  {
+    "benchName": "concatMethod",
+    "iterations": 10000000,
+    "duration": 3771.6733229979873,
+    "benchLenght": "20"
+  },
+  {
+    "benchName": "concatMethodChained",
+    "iterations": 10000000,
+    "duration": 73.09420900046825,
+    "benchLenght": "0"
+  },
+  {
+    "benchName": "concatMethodChained",
+    "iterations": 10000000,
+    "duration": 195.81307699531317,
+    "benchLenght": "1"
+  },
+  {
+    "benchName": "concatMethodChained",
+    "iterations": 10000000,
+    "duration": 343.44003999978304,
+    "benchLenght": "2"
+  },
+  {
+    "benchName": "concatMethodChained",
+    "iterations": 10000000,
+    "duration": 519.7088860049844,
+    "benchLenght": "3"
+  },
+  {
+    "benchName": "concatMethodChained",
+    "iterations": 10000000,
+    "duration": 661.6810989975929,
+    "benchLenght": "4"
+  },
+  {
+    "benchName": "concatMethodChained",
+    "iterations": 10000000,
+    "duration": 825.9796029999852,
+    "benchLenght": "5"
+  },
+  {
+    "benchName": "concatMethodChained",
+    "iterations": 10000000,
+    "duration": 1667.6497879996896,
+    "benchLenght": "10"
+  },
+  {
+    "benchName": "concatMethodChained",
+    "iterations": 10000000,
+    "duration": 3292.1110669970512,
+    "benchLenght": "20"
+  },
+  {
+    "benchName": "concatMethodChainedLikeTypeScriptEs5",
+    "iterations": 10000000,
+    "duration": 73.99488800019026,
+    "benchLenght": "0"
+  },
+  {
+    "benchName": "concatMethodChainedLikeTypeScriptEs5",
+    "iterations": 10000000,
+    "duration": 219.310941003263,
+    "benchLenght": "1"
+  },
+  {
+    "benchName": "concatMethodChainedLikeTypeScriptEs5",
+    "iterations": 10000000,
+    "duration": 481.0541950017214,
+    "benchLenght": "2"
+  },
+  {
+    "benchName": "concatMethodChainedLikeTypeScriptEs5",
+    "iterations": 10000000,
+    "duration": 733.5816479995847,
+    "benchLenght": "3"
+  },
+  {
+    "benchName": "concatMethodChainedLikeTypeScriptEs5",
+    "iterations": 10000000,
+    "duration": 884.7252660021186,
+    "benchLenght": "4"
+  },
+  {
+    "benchName": "concatMethodChainedLikeTypeScriptEs5",
+    "iterations": 10000000,
+    "duration": 1232.8549669981003,
+    "benchLenght": "5"
+  },
+  {
+    "benchName": "concatMethodChainedLikeTypeScriptEs5",
+    "iterations": 10000000,
+    "duration": 2670.7736629992723,
+    "benchLenght": "10"
+  },
+  {
+    "benchName": "concatMethodChainedLikeTypeScriptEs5",
+    "iterations": 10000000,
+    "duration": 5481.083740003407,
+    "benchLenght": "20"
+  },
+  {
+    "benchName": "arrayJoin",
+    "iterations": 10000000,
+    "duration": 730.2244440019131,
+    "benchLenght": "0"
+  },
+  {
+    "benchName": "arrayJoin",
+    "iterations": 10000000,
+    "duration": 1368.0535949990153,
+    "benchLenght": "1"
+  },
+  {
+    "benchName": "arrayJoin",
+    "iterations": 10000000,
+    "duration": 1939.212708003819,
+    "benchLenght": "2"
+  },
+  {
+    "benchName": "arrayJoin",
+    "iterations": 10000000,
+    "duration": 2569.249447003007,
+    "benchLenght": "3"
+  },
+  {
+    "benchName": "arrayJoin",
+    "iterations": 10000000,
+    "duration": 3209.7659730017185,
+    "benchLenght": "4"
+  },
+  {
+    "benchName": "arrayJoin",
+    "iterations": 10000000,
+    "duration": 3753.2203880026937,
+    "benchLenght": "5"
+  },
+  {
+    "benchName": "arrayJoin",
+    "iterations": 10000000,
+    "duration": 6906.829951003194,
+    "benchLenght": "10"
+  },
+  {
+    "benchName": "arrayJoin",
+    "iterations": 10000000,
+    "duration": 13290.141104996204,
+    "benchLenght": "20"
+  },
+  {
+    "benchName": "arrayJoinPreallocated",
+    "iterations": 10000000,
+    "duration": 601.8597960025072,
+    "benchLenght": "0"
+  },
+  {
+    "benchName": "arrayJoinPreallocated",
+    "iterations": 10000000,
+    "duration": 1199.031757004559,
+    "benchLenght": "1"
+  },
+  {
+    "benchName": "arrayJoinPreallocated",
+    "iterations": 10000000,
+    "duration": 1747.7929720059037,
+    "benchLenght": "2"
+  },
+  {
+    "benchName": "arrayJoinPreallocated",
+    "iterations": 10000000,
+    "duration": 2306.9617839977145,
+    "benchLenght": "3"
+  },
+  {
+    "benchName": "arrayJoinPreallocated",
+    "iterations": 10000000,
+    "duration": 2992.0716000050306,
+    "benchLenght": "4"
+  },
+  {
+    "benchName": "arrayJoinPreallocated",
+    "iterations": 10000000,
+    "duration": 3511.3172490000725,
+    "benchLenght": "5"
+  },
+  {
+    "benchName": "arrayJoinPreallocated",
+    "iterations": 10000000,
+    "duration": 6357.9848740026355,
+    "benchLenght": "10"
+  },
+  {
+    "benchName": "arrayJoinPreallocated",
+    "iterations": 10000000,
+    "duration": 12677.485812999308,
+    "benchLenght": "20"
+  }
+]
