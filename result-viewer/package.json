@@ -1,0 +1,17 @@
+{
+  "name": "result-viewer",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --outDir ../docs --base /bench-js-string-concat/",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "chart.js": "^4.3.3"
+  }
+}
